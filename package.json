@@ -1,0 +1,19 @@
+{
+  "name": "idkyet",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "head/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IchorAmoc/idkyet.git"
+  },
+  "author": "vgb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IchorAmoc/idkyet/issues"
+  },
+  "homepage": "https://github.com/IchorAmoc/idkyet#readme"
+}
